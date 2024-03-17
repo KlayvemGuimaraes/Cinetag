@@ -1,7 +1,7 @@
 # Projetos Alura Oracle - ONE
  > Oracle Next Education Oracle
 
-[Clique aqui para acessar o site](https://klayvemguimaraes.github.io/Alura-Play/)
+[Clique aqui para acessar o site](https://cinetag-phi-nine.vercel.app/)
 
 <h2 align="center">Plataforma de streaming de filmes relacionados a tecnologia | <span span style="color: #f59e0b;">Cinetag</span></h2>
 
